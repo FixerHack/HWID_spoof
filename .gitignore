@@ -1,0 +1,12 @@
+# build output
+*.exe
+*.o
+
+# local machine data (real HWIDs) and logs
+backup.dat
+*.dat
+*_log.txt
+*.log
+
+# local Claude settings
+.claude/settings.local.json

@@ -1,0 +1,2 @@
+// Вбудовує UAC-маніфест у .exe (ID=1, RT_MANIFEST=24)
+1 24 "app.manifest"
